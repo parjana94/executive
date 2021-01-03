@@ -1,0 +1,51 @@
+/*====Header===*/
+.logo-img{
+    margin-left: 150px;
+    margin-top: 55px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.main-nav{
+    display: inline-block;
+    margin-left:155px;;
+    margin-top: 55px;
+    vertical-align: middle;
+}
+.nav-li{
+    display: inline-block;
+    margin-left: 70px;
+}
+.nav-a{
+    font-family: 'Open Sans';
+    color: black;
+    font-size: 17px;
+}
+.active{
+    border-bottom: 3px solid #717CFF;
+}
+.apply{
+    border: 2px solid #717CFF;
+    border-radius: 10px;
+    padding: 10px 33px;
+}
+
+/*=====Section====*/
+.dream{
+    margin-top: 155px;
+    margin-left: 150px;
+}
+.dream-h1{
+    font-size: 56px;
+    width: 632px;
+    font-family: 'Open Sans';
+}
+.build{
+    color:#717CFF;
+}
+.dream-p{
+    margin-top: 55px;
+    height: 80px;
+    width: 632px;
+    font-weight: 120;
+    line-height: 35px;
+}
