@@ -116,6 +116,7 @@
     border-radius: 14px;
     margin-left: 150px;
     margin-top:125px;
+    display: inline-block;
 }
 .rectangle{
     height:76px;
@@ -126,8 +127,8 @@
     margin-left: 30px;
 }
 .rectangle-img{
-    margin-top: 18px;
-    margin-left: 18px;
+    padding-top:18px;
+    padding-left: 18px;
 }
 .services-h2{
     font-family: 'Open Sans';
@@ -143,4 +144,23 @@
 .more{
     margin-top: 50px;
     margin-left: 18px;
+}
+.service-2{
+    width: 344px;
+    height: 351px;
+    margin-top:125px;
+    display:inline-block;
+    margin-left: 75px;
+}
+.rectangle2{
+    background-color: #FF5959;
+    height:76px;
+    width: 76px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.rectangle-img2{
+    padding-top: 23px;
+    padding-left: 23px;
 }
